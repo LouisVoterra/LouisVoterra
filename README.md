@@ -13,14 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<style>
-  .left-align td {
-    text-align: left;
-  }
-</style>
-
-
-
 
 # <strong>Hi there 👋, I'm Louis Dewa Voterra!</strong>
 
