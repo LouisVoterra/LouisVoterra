@@ -13,8 +13,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<table class="left-align">
+  <tr>
+    <td>Description</td>
+    <td>List</td>
+  </tr>
+</table>
 
-# <summary><strong>Hi there 👋, I'm Louis Dewa Voterra!</strong></summary>
+
+
+# <strong>Hi there 👋, I'm Louis Dewa Voterra!</strong>
 
 A hardworking individual with a strong interest in Informatics Engineering—covering Front End, Back End, Android Development, and Machine Learning.
 
@@ -27,20 +35,12 @@ With a solid foundation in programming concepts, I’m capable of learning new t
 
 ---
 
-### <summary><strong>Yosh!</strong></summary>
-
-- ⌨️ Currently learning **Data Analytics**
-- 💬 Ask me about anything
-- 📬 Reach me at: <a href="mailto:youremail@gmail.com">Email me</a>
-- ☁️ Pronouns: She/Her
-- 🎲 Drawing and writing are part of me
-
----
 
 ### 🧰 Tech Stack
+---
 
 
-<table>
+<table class="left-align">
   <tr>
     <td>
       Description
@@ -150,7 +150,7 @@ With a solid foundation in programming concepts, I’m capable of learning new t
 
 ---
 
-### <summary><strong>Let's connect!</strong></summary>
+### <strong>Let's connect!</strong>
 
 <a href="https://www.instagram.com/louisdewavt/">
   <img align="left" alt="Instagram" width="22px" src="https://simpleicons.org/icons/instagram.svg" />
