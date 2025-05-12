@@ -43,7 +43,15 @@ With a solid foundation in programming concepts, I’m capable of learning new t
 <table>
   <tr>
     <td>
-        #### 🌐 Web Development
+      Description
+    </td>
+    <td style="text-align:left">
+      List
+    </td>
+  </tr>
+  <tr>
+    <td>
+        🌐 Web Development
     </td>
     <td>
         <p>
@@ -60,7 +68,7 @@ With a solid foundation in programming concepts, I’m capable of learning new t
   </tr>
   <tr>
     <td>
-        #### 🤖 Machine Learning & Data Science
+        🤖 Machine Learning & Data Science
     </td>
     <td>
         <p>
@@ -77,7 +85,7 @@ With a solid foundation in programming concepts, I’m capable of learning new t
   </tr>
   <tr>
     <td>
-        #### 🗄️ Database & Query Language
+        🗄️ Database & Query Language
     </td>
     <td>
         <p>
@@ -87,7 +95,7 @@ With a solid foundation in programming concepts, I’m capable of learning new t
   </tr>
   <tr>
     <td>
-        #### 🖥️ Operating System
+        🖥️ Operating System
     </td>
     <td>
         <p>
@@ -97,7 +105,7 @@ With a solid foundation in programming concepts, I’m capable of learning new t
   </tr>
   <tr>
     <td>
-        #### 🧩 Desktop Application
+        🧩 Desktop Application
     </td>
     <td>
         <p>
@@ -108,7 +116,7 @@ With a solid foundation in programming concepts, I’m capable of learning new t
   </tr>
   <tr>
     <td>
-        #### 🗂️ Version Control
+        🗂️ Version Control
     </td>
     <td>
         <p>
@@ -119,7 +127,7 @@ With a solid foundation in programming concepts, I’m capable of learning new t
   </tr>
   <tr>
     <td>
-        #### 📱 Mobile Development
+        📱 Mobile Development
     </td>
     <td>
       <p>
@@ -130,7 +138,7 @@ With a solid foundation in programming concepts, I’m capable of learning new t
   </tr>
   <tr>
     <td>
-        #### ⚙️ Productivity
+        ⚙️ Productivity
     </td>
     <td>
         <p>
