@@ -14,111 +14,93 @@ Here are some ideas to get you started:
 -->
 
 
-# <summary><strong>Hi there :wave: , I'm Louis Dewa Voterra!</strong></summary>
-An hardworking individual who has strong interest in informatics engineering such as Front End, Back End, Android Development and Machine Learning.
-with the strong foundation of programming concept, i'm capable to learn and new things, but not very quick adapt. Currently Interested in field of
-Machine Learning, Deep Learning, Computer Vision & Natural Language Processing. 
+# <summary><strong>Hi there 👋, I'm Louis Dewa Voterra!</strong></summary>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+A hardworking individual with a strong interest in Informatics Engineering—covering Front End, Back End, Android Development, and Machine Learning.
+
+With a solid foundation in programming concepts, I’m capable of learning new things (though not always adapting quickly 😅). Currently exploring:
+**Machine Learning, Deep Learning, Computer Vision & Natural Language Processing.**
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-### <summary><strong>Yosh!</strong></summary>
-<p>
-    - :keyboard: I’m currently learning Data Analytics. </br>
-    - :speech_balloon: Ask me about anything.</br>
-    - :mailbox: How to reach me: <a href="mailto:youremail@gmail.com">Email me!</a>  </br>
-    - :cloud: Pronouns: She/Her. </br>
-    - :game_die: Drawing and writing are part of me. </br>
-<p>
+---
 
-<table>
-    <tr>
-        <td>Description</td>
-        <td>List</td>
-    </tr>
-    <tr>
-        <td>
-            Web Development
-        </td>
-        <td>
-            <p>
-                <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
-                <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
-                <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-                <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
-                <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
-                <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" />
-                <img src="https://img.shields.io/badge/jquery-0769AD?logo=jquery&logoColor=white" /> 
-                <img src="https://img.shields.io/badge/laravel-FF2D20?logo=laravel&logoColor=white" />
-            </p>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            Machine Learning
-        </td>
-        <td>
-            <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-            <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
-            <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
-            <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white" />
-            <img src="https://img.shields.io/badge/Seaborn-2D6CAB?logo=python&logoColor=white" />
-            <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" />
-            <img src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white" />
-            <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
-        </td>
-    </tr>
-    <tr>
-        <td>
-            Database & Query Language
-        </td>
-        <td>
-             <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
-        </td>
-    </tr>
-    <tr>
-        <td>Operating System</td>
-        <td>
-            <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
-        </td>
-    </tr>
-    <tr>
-        <td>
-            Desktop Application
-        </td>
-        <td>
-            <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white" /> 
-            <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white" /> 
-        </td>
-    </tr>
-    <tr>
-        <td>
-            Version Control System
-        </td>
-        <td>
-            <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
-        </td>
-    </tr>
-    <tr>
-        <td>
-            Mobile 
-        </td>
-        <td>
-            <img src="https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white" /> 
-            <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=white" /> 
-        </td>
-    </tr>
-    <tr>
-        <td>Productivity</td>
-        <td>
-            <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
-        </td>
-    </tr>
-    
-</table>
- 
+### <summary><strong>Yosh!</strong></summary>
+
+- ⌨️ Currently learning **Data Analytics**
+- 💬 Ask me about anything
+- 📬 Reach me at: <a href="mailto:youremail@gmail.com">Email me</a>
+- ☁️ Pronouns: She/Her
+- 🎲 Drawing and writing are part of me
+
+---
+
+### 🧰 Tech Stack
+
+#### 🌐 Web Development
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" />
+</p>
+
+#### 🤖 Machine Learning & Data Science
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-2D6CAB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
+</p>
+
+#### 🗄️ Database & Query Language
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+</p>
+
+#### 🖥️ Operating System
+<p>
+  <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
+</p>
+
+#### 🧩 Desktop Application
+<p>
+  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white" />
+</p>
+
+#### 🗂️ Version Control
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+</p>
+
+#### 📱 Mobile Development
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=white" />
+</p>
+
+#### ⚙️ Productivity
+<p>
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=white" />
+</p>
+
+---
+
 ### <summary><strong>Let's connect!</strong></summary>
+
 <a href="https://www.instagram.com/louisdewavt/">
-  <img align="left" alt="Goo's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
+  <img align="left" alt="Instagram" width="22px" src="https://simpleicons.org/icons/instagram.svg" />
 </a>
 
