@@ -13,12 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<table class="left-align">
-  <tr>
-    <td>Description</td>
-    <td>List</td>
-  </tr>
-</table>
+<style>
+  .left-align td {
+    text-align: left;
+  }
+</style>
+
 
 
 
