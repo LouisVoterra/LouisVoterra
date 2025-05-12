@@ -45,7 +45,7 @@ With a solid foundation in programming concepts, I’m capable of learning new t
     <td>
       Description
     </td>
-    <td style="text-align:left">
+    <td style="text-align:right">
       List
     </td>
   </tr>
