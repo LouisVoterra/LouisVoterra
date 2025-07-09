@@ -125,6 +125,7 @@ With a solid foundation in programming concepts, I’m capable of learning new t
       <p>
       <img src="https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white" />
       <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=white" />
+        <img src="https://img.shields.io/badge/Ionic-3880FF?logo=ionic&logoColor=white" />
       </p>
     </td>
   </tr>
