@@ -124,9 +124,10 @@ I also enjoy connecting with others to share knowledge, exchange ideas, and grow
     </td>
     <td>
       <p>
-      <img src="https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white" />
-      <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=white" />
+        <img src="https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white" />
+        <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=white" />
         <img src="https://img.shields.io/badge/Ionic-3880FF?logo=ionic&logoColor=white" />
+        <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" />
       </p>
     </td>
   </tr>
